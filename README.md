@@ -54,5 +54,4 @@ export default tseslint.config({
 })
 ```
 =======
-# React
->>>>>>> 6f8ea5842f4e94821bcf1be405515331f55aba43
+
